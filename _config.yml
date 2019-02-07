@@ -5,6 +5,7 @@ collections:
   episodes:
     title: Episodes
     output: true
+    permalink: episodes
   posts:
     title: Posts
     output: true
