@@ -1,2 +1,4 @@
-# presenttensespodcast
-The website for a podcast that I'm starting with my wife. 
+# Present Tenses Podcast
+This repo will hold the website for a podcast that Meghan (my partner) and I attempting.
+
+More info coming soon. 
